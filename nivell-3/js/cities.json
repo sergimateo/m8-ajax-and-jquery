@@ -1,0 +1,92 @@
+[
+    {
+        "id": 6534017,
+        "name": "Besalú",
+        "state": "",
+        "country": "ES",
+        "coord": {
+            "lon": 2.69748,
+            "lat": 42.20187
+        }
+    },
+    {
+        "id": 3410836,
+        "name": "Jericoacoara",
+        "state": "",
+        "country": "BR",
+        "coord": {
+            "lon": -40.519039,
+            "lat": -2.79352
+        }
+    },
+    {
+        "id": 2729907,
+        "name": "Longyearbyen",
+        "state": "",
+        "country": "NO",
+        "coord": {
+            "lon": 15.64007,
+            "lat": 78.218597
+        }
+    },
+    {
+        "id": 6356181,
+        "name": "Òrrius",
+        "state": "",
+        "country": "ES",
+        "coord": {
+            "lon": 2.34958,
+            "lat": 41.553928
+        }
+    },
+    {
+        "id": 2122311,
+        "name": "Oymyakon",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 142.816666,
+            "lat": 63.466671
+        }
+    },
+    {
+        "id": 3454901,
+        "name": "Passa Quatro",
+        "state": "",
+        "country": "BR",
+        "coord": {
+            "lon": -44.966671,
+            "lat": -22.39028
+        }
+    },
+    {
+        "id": 3113082,
+        "name": "Portugalete",
+        "state": "",
+        "country": "ES",
+        "coord": {
+            "lon": -3.02064,
+            "lat": 43.320992
+        }
+    },
+    {
+        "id": 2110297,
+        "name": "Tuvalu",
+        "state": "",
+        "country": "TV",
+        "coord": {
+            "lon": 179.144775,
+            "lat": -8.51719
+        }
+    },
+    {
+        "id": 3833367,
+        "name": "Ushuaia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.300003,
+            "lat": -54.799999
+        }
+    }
+]
